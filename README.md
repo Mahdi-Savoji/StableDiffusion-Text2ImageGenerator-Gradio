@@ -1,7 +1,6 @@
 ## Stable Diffusion Text-to-Image Generator with Gradio
 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Text2ImageGenerator-Gradio.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mahdi-Savoji/StableDiffusion-Text2ImageGenerator-Gradio/blob/main/Text2ImageGenerator-Gradio.ipynb)
 
 ## 🚀 Features
 - Generate images from text prompts using either Stable Diffusion 1.5 or SDXL
