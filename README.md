@@ -1,8 +1,12 @@
 ## Stable Diffusion Text-to-Image Generator with Gradio
 
+## 📓 Jupyter Notebook Access
+
+The interactive notebook containing the full code is available here:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mahdi-Savoji/StableDiffusion-Text2ImageGenerator-Gradio/blob/main/Text2ImageGenerator-Gradio.ipynb)
 
 ## 🚀 Features
+
 - Generate images from text prompts using either Stable Diffusion 1.5 or SDXL
 - Adjustable guidance scale (CFG) for precise control
 - Multiple image size options (from 16x16 to 1024x1024)
